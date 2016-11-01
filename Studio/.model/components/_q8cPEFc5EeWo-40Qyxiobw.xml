@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <comp:Component xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:comp="http://virtubuil.com/schemas/comp.ecore" uuid="_q8cPEFc5EeWo-40Qyxiobw" name="link_component" componentClass="LINK" displayName="Link Component">
-  <variables xsi:type="comp:DeclaredVariable" uuid="_YHRbsFdAEeWo-40Qyxiobw" name="height4" visibility="800" initValue="50">
+  <variables xsi:type="comp:DeclaredVariable" uuid="_YHRbsFdAEeWo-40Qyxiobw" name="height5" visibility="800" initValue="50">
     <domain uuid="_YHRbsVdAEeWo-40Qyxiobw" name="local" visibility="300">
       <typeSet uuid="_HVkisqAfEeaXBNrjPrWY6A" bitSet="10"/>
     </domain>
